@@ -22,7 +22,7 @@ import (
 )
 
 // Help template for logger http and audit
-// 帮忙信息
+// 帮助信息
 var (
 	Help = config.HelpKVS{
 		config.HelpKV{
