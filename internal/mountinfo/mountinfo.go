@@ -21,6 +21,7 @@
 package mountinfo
 
 // mountInfo - This represents a single line in /proc/mounts.
+// 挂载信息
 type mountInfo struct {
 	Device  string
 	Path    string
